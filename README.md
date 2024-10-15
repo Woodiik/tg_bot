@@ -27,7 +27,7 @@ This is a simple Telegram bot that tracks user engagement in a chat, rewards poi
 
    ```bash
    git clone <repository-url>
-   cd telegram-engagement-bot
+   cd tg_bot
    ```
 
 2. **Install Dependencies**
